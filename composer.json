@@ -1,0 +1,18 @@
+{
+    "name": "camille/composer",
+    "authors": [
+        {
+            "name": "CamilleStagiaire",
+            "email": "100408607+CamilleStagiaire@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+           
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.6",
+        "gregwar/captcha": "^1.1"
+    }
+}
